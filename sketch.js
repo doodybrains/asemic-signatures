@@ -1,4 +1,4 @@
-// user paper js paperscript for creating points + paths!
+// using paper js paperscript for creating points + paths!
 
 var signs = [];
 
